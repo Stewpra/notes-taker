@@ -15,7 +15,7 @@ This project is a task management tool in an easy to use format with a sleek des
 
 ## Installation
 
-git clone https://.com/Stewpra/notes-taker.git
+git clone https://github.com/Stewpra/notes-taker.git
 
 ## Usage
 
